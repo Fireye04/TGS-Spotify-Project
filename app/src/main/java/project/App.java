@@ -17,6 +17,5 @@ public class App {
         SpotifyApi spotifyApi = new SpotifyApi.Builder()
                 .setAccessToken("token-goes-here")
                 .build();
-
     }
 }
