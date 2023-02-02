@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab967a90-2f27-4a07-9920-b4c755e301b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/project/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src (deprecated)/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TGS-Spotify-Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/Playlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TGS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/TGS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/Classes/Playlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/Classes/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/ISongList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/Interfaces/ISongList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +41,18 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="TGS-Spotify-Project" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TGS-Spotify-Project" type="f1a62948:ProjectNode" />
                 <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TGS-Spotify-Project" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
               </path>
             </expand>
             <select />
@@ -79,21 +67,21 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "/home/fireye/Documents/IdeaProjects/TGS-Spotify-Project/app/src/main/java/project",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/fireye/Documents/IdeaProjects/TGS-Spotify-Project/app/src/main/java/project&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Gradle.TGS-Spotify-Project [wrapper]">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project.App" />
       <module name="TGS-Spotify-Project.app.main" />
@@ -128,6 +116,27 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="TGS-Spotify-Project [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="wrapper" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="TGS-Spotify-Project:app [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -151,9 +160,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.TGS-Spotify-Project [wrapper]" />
+        <item itemvalue="Gradle.TGS-Spotify-Project:app [build]" />
         <item itemvalue="Application.App" />
         <item itemvalue="Gradle.TGS-Spotify-Project [init]" />
-        <item itemvalue="Gradle.TGS-Spotify-Project:app [build]" />
       </list>
     </recent_temporary>
   </component>
