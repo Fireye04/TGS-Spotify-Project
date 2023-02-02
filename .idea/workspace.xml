@@ -4,31 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab967a90-2f27-4a07-9920-b4c755e301b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/project/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src (deprecated)/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TGS-Spotify-Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="c3b97ae3-3638-45eb-a290-d53d20a78262" name="Changes" comment="message">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/SpotifyApi/Builder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/Playlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TGS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/TGS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/Classes/Playlist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/Classes/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/ISongList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src (deprecated)/Interfaces/ISongList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/project/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/project/App.java" afterDir="false" />
+    </list>
+    <list id="fe9b90de-8bba-47fb-8000-1d0a80fb6b56" name="Changes by fireye" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/Interfaces/ISongList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +41,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="TGS-Spotify-Project" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="TGS-Spotify-Project" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="TGS-Spotify-Project" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -73,8 +48,36 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "CLOSED",
+      "author": "Fireye04"
+    }
+  ],
+  "lastFilter": {
+    "state": "CLOSED",
+    "author": "Fireye04"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dea8848d-0d4e-46e7-9e78-ee8f28fff34b" />
+        <option name="url" value="https://github.com/Fireye04/TGS-Spotify-Project.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -84,6 +87,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "last_directory_selection": "/home/fireye/Documents/IdeaProjects/TGS-Spotify-Project/app/src/main/java/project",
     "node.js.selected.package.tslint": "(autodetect)"
   }
