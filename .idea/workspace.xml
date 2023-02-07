@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c6c6ce-71de-4433-92ae-33ad6d6ee3f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Filtering.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/FIltering.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Song.java" afterDir="false" />
     </list>
-    <list id="e02146b5-d617-47f4-9ced-8bfcc1e9ef2d" name="Changes by caasi" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/RandomAlbum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/project/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/project/AppTest.java" afterDir="false" />
-    </list>
-    <list id="5c019cb6-1823-4f48-8166-fe00b7a448f2" name="Changes by richa" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/SpotifyApi/SpotifyApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/project/SpotifyApi/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/project/SpotifyApi/Builder.java" afterDir="false" />
-    </list>
-    <list id="81a725d9-6c85-4dcd-a1ea-8ed0521be863" name="Changes by skyla" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/project/Classes/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Queue.java" afterDir="false" />
-    </list>
+    <list id="e02146b5-d617-47f4-9ced-8bfcc1e9ef2d" name="Changes by caasi" comment="" />
+    <list id="5c019cb6-1823-4f48-8166-fe00b7a448f2" name="Changes by richa" comment="" />
+    <list id="81a725d9-6c85-4dcd-a1ea-8ed0521be863" name="Changes by skyla" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,14 +85,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LQREIktPfkjo4Sfq3sveZXW7mA" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "node.js.selected.package.tslint": "(autodetect)"
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java/project/Classes" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="TGS-Spotify-Project:app [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -126,7 +140,19 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3c6c6ce-71de-4433-92ae-33ad6d6ee3f1" name="Changes" comment="" />
+      <created>1675801209073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675801209073</updated>
+      <workItem from="1675801210574" duration="570000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

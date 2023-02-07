@@ -1,3 +1,5 @@
+package project.Classes;
+
 import java.util.ArrayList;
 
 
@@ -28,16 +30,4 @@ public class Filtering {
         return filteredSongs;
     }
 
-    ArrayList<Song> filterByAlbum(ArrayList<Song> songs, String album) {
-        ArrayList<Song> filteredSongs = new ArrayList<Song>();
-
-        for(int i = 0; i < songs.size(); i++) {
-            Song song = songs.get(i);
-            if (song.getAlbum() == album) {
-                filteredSongs.add(song);
-            }
-        }
-
-        return filteredSongs;
-    }
 }

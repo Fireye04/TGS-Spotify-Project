@@ -1,3 +1,5 @@
+package project.Classes;
+
 public class Song{
 
     private String artist;
