@@ -18,7 +18,7 @@ public class Filtering {
         return filteredSongs;
     }
 
-    ArrayList<Song> filterByAlbumNew(ArrayList<Song> songs, String album) {
+    ArrayList<Song> filterByAlbum(ArrayList<Song> songs, String album) {
         ArrayList<Song> filteredSongs = new ArrayList<Song>();
 
         for (Song song : songs) {

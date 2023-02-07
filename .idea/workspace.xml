@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c6c6ce-71de-4433-92ae-33ad6d6ee3f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Filtering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/UserInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/FIltering.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/project/Classes/Filtering.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Filtering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/project/Classes/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Playlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/project/Classes/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/project/Classes/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/project/Interfaces/ISongList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/project/Interfaces/ISongList.java" afterDir="false" />
     </list>
     <list id="e02146b5-d617-47f4-9ced-8bfcc1e9ef2d" name="Changes by caasi" comment="" />
     <list id="5c019cb6-1823-4f48-8166-fe00b7a448f2" name="Changes by richa" comment="" />
@@ -96,17 +99,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/java/project/Classes" />
@@ -148,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675801209073</updated>
-      <workItem from="1675801210574" duration="570000" />
+      <workItem from="1675801210574" duration="2907000" />
     </task>
     <servers />
   </component>
