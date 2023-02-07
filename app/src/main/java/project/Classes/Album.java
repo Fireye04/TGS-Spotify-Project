@@ -4,8 +4,7 @@ import project.Interfaces.ISongList;
 
 import java.util.ArrayList;
 
-public class Queue implements ISongList {
-
+public class Album implements ISongList {
 
     private ArrayList<Song> SongQueue = new ArrayList<Song>();
 
@@ -16,7 +15,7 @@ public class Queue implements ISongList {
 
     @Override
     public void addSongToList(Song song) {
-        SongQueue.add(song);
+
     }
 
     @Override
@@ -28,5 +27,4 @@ public class Queue implements ISongList {
     public void removeSongFromListBySong(Song song) {
 
     }
-
 }
