@@ -29,5 +29,19 @@ public class Filtering {
 
         return filteredSongs;
     }
+    
+
+    ArrayList<Song> filterBySong(ArrayList<Song> songs, String songName) {
+        ArrayList<Song> filteredSongs = new ArrayList<Song>();
+
+        for (Song song : songs) {
+            if (song.getSong() == songName) {
+                filteredSongs.add(song);
+            }
+        }
+
+        return filteredSongs;
+    }
+    
 
 }
