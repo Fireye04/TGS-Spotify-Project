@@ -21,11 +21,13 @@ public class Queue implements ISongList {
 
     @Override
     public void removeSongFromListByName(String name) {
+        SongQueue.remove(name);
 
     }
 
     @Override
     public void removeSongFromListBySong(Song song) {
+        SongQueue.remove(song);
 
     }
 
