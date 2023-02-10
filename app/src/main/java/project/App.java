@@ -17,5 +17,8 @@ public class App {
         SpotifyApi spotifyApi = new SpotifyApi.Builder()
                 .setAccessToken("token-goes-here")
                 .build();
+
+        spotifyApi.getTrack("4cOdK2wGLETKBW3PvgPWqT?si=1af93b96145e4d6d");
+
     }
 }
