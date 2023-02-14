@@ -25,7 +25,7 @@ hs_err_pid*
 
 # Ignore Gradle project-specific cache directory
 .gradle
-.idea/workspace.xml
+.idea
 
 # Ignore Gradle build output directory
 build
